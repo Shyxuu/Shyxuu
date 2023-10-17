@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shyxuu
 - 👀 I’m interested in coding lol
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on do the crab in MINECRAFT 1.21 AND NOT THE F###### ARMADILLO 
+- 💞️ I’m looking to collaborate on do the mod crab in MINECRAFT 1.21 AND NOT THE F###### ARMADILLO 
 - 📫 How to reach me, DISCORD @shyxuu
 
 <!---
